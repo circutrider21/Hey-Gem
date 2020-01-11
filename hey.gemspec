@@ -1,8 +1,8 @@
 
 Gem::Specification.new do |s|
   s.name        = 'Hey-Gem'
-  s.version     = '1.1.0'
-  s.date        = '2019-12-05'
+  s.version     = '1.1.1'
+  s.date        = '2020-01-11'
   s.summary     = "Hey!"
   s.description = "A simple gem that says hello"
   s.authors     = ["Uiop Pilon"]
