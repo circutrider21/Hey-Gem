@@ -1,6 +1,6 @@
 # Production Repository
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/circutrider21/Hey-Gem/Ruby Gem?style=plastic)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/circutrider21/Hey-Gem/Ruby-Gem)
 
 This repo is for all the software that is finished and ready to deploy across the Cyberspace. Files and software are removed from this repo for updates, and then returned back. if you are looking for the change log
 click below
